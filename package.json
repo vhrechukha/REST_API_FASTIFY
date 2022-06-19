@@ -18,8 +18,8 @@
     "fastify-cors": "^3.0.3",
     "fastify-formbody": "^4.0.1",
     "mysql2": "^2.1.0",
-    "sequelize": "^5.21.10",
-    "snyk": "^1.667.0"
+    "sequelize": "^6.19.1",
+    "snyk": "^1.685.0"
   },
   "devDependencies": {
     "commitizen": "^4.1.2",
